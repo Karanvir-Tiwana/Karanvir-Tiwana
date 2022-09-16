@@ -1,5 +1,5 @@
 - Hi, I’m @Karanvir-Tiwana
-- I’m interested in Computational linguistics; OCR, sentiment analysis, and translation, focussing on the Japanese language.
+- I’m interested in Computational linguistics; OCR, sentiment analysis, and translation, focusing on the Japanese language.
 - 🌱 I’m currently learning an object recognition library for an upcoming project, but I hope to be able to apply the skills I develop on
       future linguistics problems.
 - 💞️ I’m looking to collaborate on projects pertaining to linguistics, or otherwise pertaining to Japanese.
