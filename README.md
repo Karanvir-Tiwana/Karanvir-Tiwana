@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning an object recognition library for an upcoming project, but I hope to be able to apply the skills I develop on
       future linguistics problems.
 - 💞️ I’m looking to collaborate on projects pertaining to linguistics.
-- I'm natively fluent in English and Punjabi, and conversationally fluent in Japanese.
+- I'm natively fluent in English and Punjabi, and have professional working fluency in Japanese.
 - 📫 How to reach me: I can be reached at my linkedin here: https://www.linkedin.com/in/karanvir-tiwana-aa12521ab/
 
 <!---
