@@ -1,7 +1,7 @@
 - Hi, I’m @Karanvir-Tiwana
-- 
+  
 - I’m interested in computational linguistics and secondary language acquisition.
-- My hobbies include: Japanese jazz and synth-pop, video games, and hiking
+- My hobbies include: Japanese jazz and synth-pop, video games, and hiking.
 - I'm a '24 alumni of Western University (UWO) and hold a Bachelor's of Arts in Computer Science and Japanese Studies.
 - I'm currently working as an English teacher in Kyushu, Japan.
   
